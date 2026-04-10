@@ -129,7 +129,8 @@ The GWO-optimized Hybrid CNN-ViT is compared against standard baselines trained 
 <img width="1525" height="595" alt="image" src="https://github.com/user-attachments/assets/48e30b54-1c2e-48a8-a5c2-50f7ebe044f9" />
 
 
----
+<img width="858" height="566" alt="image" src="https://github.com/user-attachments/assets/02985531-c22d-4a1f-bfd1-5566c26f9bfd" />
+
 
 ## 💾 Model Checkpoint
 
